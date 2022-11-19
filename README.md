@@ -5,8 +5,10 @@ Destructive trojan written in C# Its VirusTotal scan can be found [here](https:/
 I made this as a test for my C# skills.
 This (destructive) trojan can cause mass harm to your device.
 
-## Usage
+## Prerequisites
+- Visual Studio
 
+## Usage
 ### Releases
 A stable release of the project can be found [here](https://github.com/Magnito14/Trojan/releases/tag/Trojan)
 
