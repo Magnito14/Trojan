@@ -17,6 +17,9 @@ A stable release of the project can be found [here](https://github.com/Magnito14
 - Press CTRL + B on your keyboard to build the application.
 - Enjoy! <3
 
+## Contributing
+Pull requests are welcome! For major refactors, please open an issue first to discuss what you would like to improve. Feel free to create a fork of this repository and use the code for any noncommercial purposes.
+
 ## Disclaimer
 This source is for educational purposes only. Do not use this maliciously.
 I am not responsible for any damage caused by this project.
