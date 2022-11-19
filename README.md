@@ -24,7 +24,14 @@ If you manage to find a bug in my project, please create an issue with [this](ht
 Please do not stray off of the format of the template.
 
 ## Contributing
-Pull requests are welcome! For major refactors, please open an issue first to discuss what you would like to improve. Feel free to create a fork of this repository and use the code for any noncommercial purposes.
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+- Fork the Project
+- Create your Feature Branch (`git checkout -b feature/Feature`)
+- Commit your Changes (`git commit -m 'Add some features'`)
+- Push to the Branch (`git push origin feature/Feature`)
+- Open a Pull Request
 
 ## Disclaimer
 This source is for educational purposes only. Do not use this maliciously.
