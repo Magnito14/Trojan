@@ -18,6 +18,11 @@ A stable release of the project can be found [here](https://github.com/Magnito14
 - Press CTRL + B on your keyboard to build the application.
 - Enjoy! <3
 
+## Reporting Bugs
+If you manage to find a bug in my project, please create an issue with [this](https://github.com/Magnito14/Trojan/blob/master/.github/ISSUE_TEMPLATE/bug_report.md) issue form template.
+
+Please do not stray off of the format of the template.
+
 ## Contributing
 Pull requests are welcome! For major refactors, please open an issue first to discuss what you would like to improve. Feel free to create a fork of this repository and use the code for any noncommercial purposes.
 
