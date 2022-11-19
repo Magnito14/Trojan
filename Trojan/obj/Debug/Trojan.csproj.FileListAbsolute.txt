@@ -1,0 +1,15 @@
+C:\Users\luxju\Downloads\Win32.Trojan\Win32.Trojan\obj\Debug\Trojan.csproj.AssemblyReference.cache
+C:\Users\luxju\Downloads\Win32.Trojan\Win32.Trojan\obj\Debug\Trojan.csproj.SuggestedBindingRedirects.cache
+C:\Users\luxju\Downloads\Win32.Trojan\Win32.Trojan\obj\Debug\Trojan.LastPayload.resources
+C:\Users\luxju\Downloads\Win32.Trojan\Win32.Trojan\obj\Debug\Trojan.MainFRM.resources
+C:\Users\luxju\Downloads\Win32.Trojan\Win32.Trojan\obj\Debug\Trojan.NextPayload.resources
+C:\Users\luxju\Downloads\Win32.Trojan\Win32.Trojan\obj\Debug\Trojan.Payload.resources
+C:\Users\luxju\Downloads\Win32.Trojan\Win32.Trojan\obj\Debug\Trojan.Properties.Resources.resources
+C:\Users\luxju\Downloads\Win32.Trojan\Win32.Trojan\obj\Debug\Trojan.Sounds.resources
+C:\Users\luxju\Downloads\Win32.Trojan\Win32.Trojan\obj\Debug\Trojan.csproj.GenerateResource.cache
+C:\Users\luxju\Downloads\Win32.Trojan\Win32.Trojan\obj\Debug\Trojan.csproj.CoreCompileInputs.cache
+C:\Users\luxju\Downloads\Win32.Trojan\Win32.Trojan\bin\Debug\Trojan.exe.config
+C:\Users\luxju\Downloads\Win32.Trojan\Win32.Trojan\bin\Debug\Trojan.exe
+C:\Users\luxju\Downloads\Win32.Trojan\Win32.Trojan\bin\Debug\Trojan.pdb
+C:\Users\luxju\Downloads\Win32.Trojan\Win32.Trojan\obj\Debug\Trojan.exe
+C:\Users\luxju\Downloads\Win32.Trojan\Win32.Trojan\obj\Debug\Trojan.pdb
