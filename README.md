@@ -1,9 +1,12 @@
 # Trojan
-Destructive trojan written in C# Its VirusTotal scan can be found here
+Destructive trojan written in C# Its VirusTotal scan can be found [here](https://www.virustotal.com/gui/file/f9309966dd9c82a4227197781035d2fa0a7d24749d72a59ed8908bb01fbf61e1?nocache=1)
 
 ## Description
 I made this as a test for my C# skills.
 This (destructive) trojan can cause mass harm to your device.
+
+## How To Compile
+### Releases
 
 ## Disclaimer
 This source is for educational purposes only. Do not use this maliciously.
